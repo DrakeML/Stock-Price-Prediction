@@ -1,0 +1,10 @@
+Predicts stock prices using SVM.
+
+To run place both files in same folder and run 'python StockPrediction.py'
+
+Dependencies:
+  csv
+  numpy
+  scikit-learn
+  matplotlib
+ 
